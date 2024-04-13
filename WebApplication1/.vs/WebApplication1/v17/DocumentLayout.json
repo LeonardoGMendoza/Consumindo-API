@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|c:\\users\\leonardo\\source\\repos\\clonereact\\webapplication1\\webapplication1.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|solutionrelative:webapplication1.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687EADA8-30F5-4167-87C3-106B11606217}|WebApplication1.Business\\WebApplication1.Business.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.business\\studentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687EADA8-30F5-4167-87C3-106B11606217}|WebApplication1.Business\\WebApplication1.Business.csproj|solutionrelative:webapplication1.business\\studentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103EB887-727E-44AC-88CF-15292BA0399E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103EB887-727E-44AC-88CF-15292BA0399E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103EB887-727E-44AC-88CF-15292BA0399E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{103EB887-727E-44AC-88CF-15292BA0399E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.model\\interfaces\\istudentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|solutionrelative:webapplication1.model\\interfaces\\istudentbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.model\\validators\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|solutionrelative:webapplication1.model\\validators\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103EB887-727E-44AC-88CF-15292BA0399E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103EB887-727E-44AC-88CF-15292BA0399E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0022C978-4FDF-46E6-A5CC-71B0304ACEFF}|WebApplication1.Teste\\WebApplication1.Teste.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.teste\\studentbusinessteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0022C978-4FDF-46E6-A5CC-71B0304ACEFF}|WebApplication1.Teste\\WebApplication1.Teste.csproj|solutionrelative:webapplication1.teste\\studentbusinessteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.model\\exceptions\\invalidwebapplication1exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|solutionrelative:webapplication1.model\\exceptions\\invalidwebapplication1exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEC0F88-132B-4C21-AAB3-B7BF80C40F6C}|WebApplication1.Repository\\WebApplication1.Repository.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEC0F88-132B-4C21-AAB3-B7BF80C40F6C}|WebApplication1.Repository\\WebApplication1.Repository.csproj|solutionrelative:webapplication1.repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.model\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|solutionrelative:webapplication1.model\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEC0F88-132B-4C21-AAB3-B7BF80C40F6C}|WebApplication1.Repository\\WebApplication1.Repository.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.repository\\context\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEC0F88-132B-4C21-AAB3-B7BF80C40F6C}|WebApplication1.Repository\\WebApplication1.Repository.csproj|solutionrelative:webapplication1.repository\\context\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.model\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|solutionrelative:webapplication1.model\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\webapplication1.model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE7C92D-31D1-46F9-8E25-6135CDA92120}|WebApplication1.Model\\WebApplication1.Model.csproj|solutionrelative:webapplication1.model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEC0F88-132B-4C21-AAB3-B7BF80C40F6C}|WebApplication1.Repository\\WebApplication1.Repository.csproj|C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Repository\\Migrations\\20240411211413_CoreDbTeste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEC0F88-132B-4C21-AAB3-B7BF80C40F6C}|WebApplication1.Repository\\WebApplication1.Repository.csproj|solutionrelative:WebApplication1.Repository\\Migrations\\20240411211413_CoreDbTeste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Model\\Student.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Student.cs",
+              "RelativeToolTip": "WebApplication1.Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:22:46.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T21:11:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Business\\StudentBusiness.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Business\\StudentBusiness.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Business\\StudentBusiness.cs",
+              "RelativeToolTip": "WebApplication1.Business\\StudentBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:06:44.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Interfaces\\IStudentBusiness.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Model\\Interfaces\\IStudentBusiness.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Interfaces\\IStudentBusiness.cs",
+              "RelativeToolTip": "WebApplication1.Model\\Interfaces\\IStudentBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:51:26.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Validators\\StudentValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Model\\Validators\\StudentValidator.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Validators\\StudentValidator.cs",
+              "RelativeToolTip": "WebApplication1.Model\\Validators\\StudentValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:46:50.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAowKMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:07:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:37:46.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240411211413_CoreDbTeste.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Repository\\Migrations\\20240411211413_CoreDbTeste.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Repository\\Migrations\\20240411211413_CoreDbTeste.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Repository\\Migrations\\20240411211413_CoreDbTeste.cs",
+              "RelativeToolTip": "WebApplication1.Repository\\Migrations\\20240411211413_CoreDbTeste.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:14:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentBusinessTeste.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Teste\\StudentBusinessTeste.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Teste\\StudentBusinessTeste.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Teste\\StudentBusinessTeste.cs",
+              "RelativeToolTip": "WebApplication1.Teste\\StudentBusinessTeste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:53:36.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvalidWebApplication1Exception.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Exceptions\\InvalidWebApplication1Exception.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Model\\Exceptions\\InvalidWebApplication1Exception.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Exceptions\\InvalidWebApplication1Exception.cs",
+              "RelativeToolTip": "WebApplication1.Model\\Exceptions\\InvalidWebApplication1Exception.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:49:01.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Grade.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Model\\Grade.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Grade.cs",
+              "RelativeToolTip": "WebApplication1.Model\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:12:50.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Notas.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Model\\Notas.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Notas.cs",
+              "RelativeToolTip": "WebApplication1.Model\\Notas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:14:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Repository\\Context\\StudentContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Repository\\Context\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Repository\\Context\\StudentContext.cs",
+              "RelativeToolTip": "WebApplication1.Repository\\Context\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:52:46.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Model\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Model\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "WebApplication1.Model\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:59:12.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\LEONARDO\\source\\repos\\CloneReact\\WebApplication1\\WebApplication1.Repository\\StudentRepository.cs",
+              "RelativeToolTip": "WebApplication1.Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:06:19.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
