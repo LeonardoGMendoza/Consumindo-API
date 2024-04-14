@@ -1,4 +1,4 @@
- <img src="foto.jpg" alt="Imagem">
+ <img src="LINKKK.jpg" alt="Imagem">
 <h1>Aplicação de CRUD em C#, Bootstrap, e React</h1>
 <h2>Descrição</h2>
 Este projeto consiste em uma aplicação de CRUD desenvolvida em C#, utilizando os princípios SOLID, injeção de dependência e testes unitários para garantir a robustez do código. O objetivo é criar um sistema capaz de realizar operações de criação, leitura, atualização e exclusão de dados em um banco de dados. Para isso, foi utilizado o Bootstrap para criar uma interface de usuário moderna e responsiva, oferecendo uma experiência agradável aos usuários. Além disso, o React foi integrado para construção do frontend, aproveitando sua eficiência e facilidade de desenvolvimento.
